@@ -8,10 +8,10 @@ pyinstaller
 onnxruntime
 # 介绍
 该程序实现对图片、视频或者视频流中驾驶员行为进行检测分类   
-imgs/文件夹存放图片
+imgs/文件夹存放图片  
 ui/文件夹存放ui文件，可以通过Qt Designer编辑  
-videos/文件夹存放示例视频
-weights/文件夹存放训练好的模型
+videos/文件夹存放示例视频  
+weights/文件夹存放训练好的模型  
 # 运行
 python drive.py
 # 打包
