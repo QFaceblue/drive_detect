@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da891ced-6177-48cb-9410-4525c4e3430d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/imgs/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/3_23_1_s.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/3_23_2_s.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/3_25_1_s.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/shite.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/xw.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weights/mobilenetv2_224_acc=85.6154.onnx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dirve_detect.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dirve_detect.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drive.py" beforeDir="false" afterPath="$PROJECT_DIR$/drive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/d1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/d2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/d5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/d6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/img0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/drive.avi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights/ghostnet_my_nv_05_acc=97.4856_eval.onnx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pSwfX1rXLlAvoRJQWLBsGijcOh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\dirve_detect\imgs" />
+      <recent name="D:\code\dirve_detect\weights" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="drive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dirve_detect" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/drive.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.drive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da891ced-6177-48cb-9410-4525c4e3430d" name="Default Changelist" comment="" />
+      <created>1615189902475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615189902475</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
