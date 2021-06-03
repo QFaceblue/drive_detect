@@ -43,14 +43,13 @@ class drive(QWidget):
         self.ui.img_label.setPixmap(self.img)
         # 加载视频路径
         # self.cap_path = "rtmp://58.200.131.2:1935/livetv/hunantv"
-        self.cap_path = "./videos/drive.avi"
+        self.cap_path = "./videos/3_23_1_s.mp4"
         self.ui.cap_path.setText(self.cap_path)
         # 加载模型
-        self.modelpath = r"weights/ghostnet_my_nv_05_acc=97.4856_eval.onnx"
-
+        self.modelpath = r"weights/mobilenetv2_224_acc=85.6154.onnx"
         self.net = cv2.dnn.readNetFromONNX(self.modelpath)
-        # self.label_name = ["正常", "右持手机", "右接电话", "左持手机", "左接电话", "操作仪器", "喝水", "向后侧身", "整理仪容", "侧视"]
-        self.label_name = ["正常", "未定义", "无人", "分心", "抽烟", "使用手机", "喝水", "抓痒", "拿东西"]
+        self.label_name = ["正常", "侧视", "喝水", "吸烟", "操作中控", "玩手机", "侧身拿东西", "整理仪容", "接电话"]
+        # self.label_name = ["正常", "未定义", "无人", "分心", "抽烟", "使用手机", "喝水", "抓痒", "拿东西"]
 
         self.ui.choose_btn.clicked.connect(self.choose)
         self.ui.predict_btn.clicked.connect(self.predict)
